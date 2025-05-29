@@ -23,7 +23,15 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+<b>Repositório criado para atividade avaliativa do MBA da faculdade IMPACTA
+
+Matéria: API development
+
+Participantes:
+
+Nome: Eduardo de Oliveira Barros
+
+Email: eduardo.barros@aluno.faculdadeimpacta.com.br</b>
 
 ## Project setup
 
